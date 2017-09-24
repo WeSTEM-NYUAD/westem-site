@@ -102,6 +102,6 @@ class __TwigTemplate_3145bee96d547a834b839dac6c1b4398bf65f9bfaa8acd13eb158fd2386
 <p>{{ 'icon_type ' ~ type ~ ' is not supported'}}</p>
 {% endif %}
 {% endif %}
-", "basic/icon.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/basic/icon.html.twig");
+", "basic/icon.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/basic/icon.html.twig");
     }
 }

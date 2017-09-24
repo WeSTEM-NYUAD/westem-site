@@ -110,6 +110,6 @@ class __TwigTemplate_ab0b1607ddbf06c2e4f60cad512e9f1142f2e0aa39966aa34c61f9d8517
     {% endif %}
   {% endfor %}
 </ul>
-", "bootstrap/partials/_dropdown_items.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/bootstrap/partials/_dropdown_items.html.twig");
+", "bootstrap/partials/_dropdown_items.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/bootstrap/partials/_dropdown_items.html.twig");
     }
 }

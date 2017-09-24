@@ -1,13 +1,13 @@
 ---
-title: High School Confrence
+title: Unbiasing
 metadata:
   description: The internal.html.twig template configured to display the
-slug: fullwidth-template
+slug: unbiasing
 
 ---
 
 [g-section-extended name=main attributes="class:col-md-12"]
-# Main contents
+# Unbiasing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in porta lacus, vel laoreet magna. Cras vitae sem nec felis luctus sollicitudin. Donec eleifend ullamcorper purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent consectetur auctor dui in suscipit. Duis orci metus, iaculis quis faucibus sit amet, hendrerit laoreet nisl. Morbi dignissim tincidunt blandit. Curabitur non egestas nisl, sit amet eleifend neque. Ut a risus id lorem lacinia pellentesque. Morbi ornare est ante, nec euismod ligula laoreet pharetra. Curabitur eu egestas quam. Proin risus ipsum, rutrum eu feugiat id, gravida ut justo. Phasellus laoreet turpis non mi pulvinar, quis viverra lorem egestas. Aliquam scelerisque mauris nec dui viverra molestie. Cras pretium enim ac accumsan molestie. Nulla facilisi.
 

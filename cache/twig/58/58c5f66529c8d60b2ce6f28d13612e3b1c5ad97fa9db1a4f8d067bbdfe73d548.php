@@ -16,7 +16,7 @@ class __TwigTemplate_910fb1319a87f13a7edf65fb9726b0f700740814cb43316fc79bf54cd91
     protected function doDisplay(array $context, array $blocks = array())
     {
         // line 1
-        $this->loadTemplate("modules/contacts.html.twig", "modules/contacts.html.twig", 1, "1762484831")->display($context);
+        $this->loadTemplate("modules/contacts.html.twig", "modules/contacts.html.twig", 1, "1523828765")->display($context);
     }
 
     public function getTemplateName()
@@ -61,13 +61,13 @@ class __TwigTemplate_910fb1319a87f13a7edf65fb9726b0f700740814cb43316fc79bf54cd91
             {% endif %}
         </div>
     {% endblock %}
-{% endembed %}", "modules/contacts.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/modules/contacts.html.twig");
+{% endembed %}", "modules/contacts.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/modules/contacts.html.twig");
     }
 }
 
 
 /* modules/contacts.html.twig */
-class __TwigTemplate_910fb1319a87f13a7edf65fb9726b0f700740814cb43316fc79bf54cd9154281_1762484831 extends Twig_Template
+class __TwigTemplate_910fb1319a87f13a7edf65fb9726b0f700740814cb43316fc79bf54cd9154281_1523828765 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {
@@ -208,6 +208,6 @@ class __TwigTemplate_910fb1319a87f13a7edf65fb9726b0f700740814cb43316fc79bf54cd91
             {% endif %}
         </div>
     {% endblock %}
-{% endembed %}", "modules/contacts.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/modules/contacts.html.twig");
+{% endembed %}", "modules/contacts.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/modules/contacts.html.twig");
     }
 }

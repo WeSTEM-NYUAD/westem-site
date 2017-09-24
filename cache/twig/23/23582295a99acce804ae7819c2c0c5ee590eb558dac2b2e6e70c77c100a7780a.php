@@ -70,6 +70,6 @@ class __TwigTemplate_3d380171fe33542cf7a3682078c8e1443cbeaf55ae6333a3ae0bbecbb70
 {% else %}
 {{ content }}
 {% endif %}
-", "basic/section.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/basic/section.html.twig");
+", "basic/section.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/basic/section.html.twig");
     }
 }

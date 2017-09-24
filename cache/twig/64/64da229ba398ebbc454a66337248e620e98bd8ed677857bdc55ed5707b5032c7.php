@@ -109,6 +109,6 @@ class __TwigTemplate_ee8baebf832fca73b56790e72f47dbcd4d3f4109213571a49e4355c4ce7
     <div class=\"progress-bar progress-bar-{{ type|default('default') }}{% if striped %} progress-bar-striped{% endif %}{% if animated %} active{% endif %} {{ attributes['class'] }}\" role=\"progressbar\" aria-valuenow=\"{{ value }}\" aria-valuemin=\"{{ min }}\" aria-valuemax=\"{{ max }}\" style=\"{% if show_label %}min-width: 2em; {% endif %}width: {{ value }}%\" {% include 'partials/_attributes.html.twig' with {'ignore': ['class']} %}>{% if show_label %}{{ value }}%{% endif %}
     <span class=\"sr-only\">{{ value }}% Complete</span>
   </div>
-</div>", "bootstrap/progressbar.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/bootstrap/progressbar.html.twig");
+</div>", "bootstrap/progressbar.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/bootstrap/progressbar.html.twig");
     }
 }

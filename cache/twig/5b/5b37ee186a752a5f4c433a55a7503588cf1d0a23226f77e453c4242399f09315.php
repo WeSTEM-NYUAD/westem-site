@@ -96,6 +96,6 @@ class __TwigTemplate_fbc0fa8ed3076a06a67cc84187090ee7e3b46282081e7837b42b1d57542
     </li>
 {% endfor %}
 </ul>
-", "partials/archives.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/archives/templates/partials/archives.html.twig");
+", "partials/archives.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/archives/templates/partials/archives.html.twig");
     }
 }

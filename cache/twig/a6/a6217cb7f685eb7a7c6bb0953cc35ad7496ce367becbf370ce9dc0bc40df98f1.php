@@ -133,6 +133,6 @@ class __TwigTemplate_ea9438a4c436253437c7a492b9156bf1966cf7cd7153436a993e0d1f0e6
     </div>
   </div>
 </nav>
-", "bootstrap/navbar.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/bootstrap/navbar.html.twig");
+", "bootstrap/navbar.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/bootstrap/navbar.html.twig");
     }
 }

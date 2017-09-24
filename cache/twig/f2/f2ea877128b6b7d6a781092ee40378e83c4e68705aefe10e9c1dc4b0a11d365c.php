@@ -67,6 +67,6 @@ class __TwigTemplate_9dbadb5b1a3234e8dd1931c2b95d40116b34ab410f89c0718cc17594d5d
   <i class=\"fa fa-stack-1x fa-{{ icon }}\"></i>
 </span>
 {% endif %}
-", "basic/icon_stacked.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/basic/icon_stacked.html.twig");
+", "basic/icon_stacked.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/basic/icon_stacked.html.twig");
     }
 }

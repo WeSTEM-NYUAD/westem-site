@@ -173,6 +173,6 @@ class __TwigTemplate_f99655d8419f0d3f94c51bc27dc08c69df4d5b609301415d361bcbef300
     {% endfor %}
 </div>
 {% endif %}
-", "partials/breadcrumbs.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/breadcrumbs/templates/partials/breadcrumbs.html.twig");
+", "partials/breadcrumbs.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/breadcrumbs/templates/partials/breadcrumbs.html.twig");
     }
 }

@@ -140,6 +140,6 @@ $context["item"], "getParameter", array(0 => "url"), "method"));
         </div>
     {% endfor %}
 </div>
-", "bootstrap/thumbnail.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/bootstrap/thumbnail.html.twig");
+", "bootstrap/thumbnail.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/bootstrap/thumbnail.html.twig");
     }
 }

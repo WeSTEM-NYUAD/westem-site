@@ -1,6 +1,6 @@
 ---
 title: Programs
-slug: gravstrap-theme-versatile-internal-template
+slug: programs
 ---
 
 [g-section-extended name="main" attributes="class:col-md-8 col-md-offset-2"]

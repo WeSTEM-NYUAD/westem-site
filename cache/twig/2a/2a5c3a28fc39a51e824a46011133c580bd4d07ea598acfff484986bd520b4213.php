@@ -59,6 +59,6 @@ class __TwigTemplate_f83b4447b0298ef1bebfaadf936b4643a70ac7f9c798b03c5076773f616
         return new Twig_Source("{% set attributes = parse_attributes(link_attributes) %}
 {% set icon_stacked = stacked|default(false) == true ? '_stacked' : '' %}
 <a href=\"{{ url }}\"{% include 'partials/_attributes.html.twig' %}>{% include 'basic/icon' ~ icon_stacked ~ '.html.twig'%}{{ menu }}</a>
-", "basic/link.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/basic/link.html.twig");
+", "basic/link.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/basic/link.html.twig");
     }
 }
