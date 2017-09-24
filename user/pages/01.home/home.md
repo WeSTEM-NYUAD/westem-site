@@ -92,7 +92,7 @@ President
 
 [/g-team-item]
 
-[g-team-item image="mark.jpg" attributes="class:col-md-3"]
+[g-team-item image="lujain.jpg" attributes="class:col-md-3"]
 <div class="item-icon">
 <h5>Lujain Ibrahim</h5>
 Vice President
@@ -105,7 +105,7 @@ Vice President
 
 [/g-team-item]
 
-[g-team-item image="julia.jpg" attributes="class:col-md-3"]
+[g-team-item image="alexandra.jpg" attributes="class:col-md-3"]
 <div class="item-icon">
 <h5>Alexandra Urbanikova</h5>
 Events Coordinator
@@ -117,7 +117,7 @@ Events Coordinator
 </div>
 
 [/g-team-item]
-[g-team-item image="jane.jpg" attributes="class:col-md-3"]
+[g-team-item image="dana.jpg" attributes="class:col-md-3"]
 <div class="item-icon">
 <h5>Dana Abu Ali</h5>
 Treasurer
