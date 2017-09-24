@@ -1,0 +1,62 @@
+1501816559
+a:2:{s:7:"content";s:2175:"<section>
+    <div class="container module contacts"  >
+                                <div class="row">
+                <div >
+                    <h2>Let your customers contact you</h2>
+<p>Use the Contact module to let your customers contact you</p>
+<hr />
+                </div>
+            </div>
+                            
+                                <div class="row contacts-text ">
+                                    <div  class="col-md-4">
+                <h5>OFFICE</h5>
+<p>9 - 3815 Thatcher Avenue<br />
+Saskatoon, Saskatchewan<br />
+S7R 1A3</p>
+<h5>CONTACT INFORMATION</h5>
+<p><strong>Primary Phone:</strong> 1 (555) 555 - 6666<br />
+<strong>Alternate Phone:</strong> 1 (555) 555 - 7777<br />
+<strong>Fax:</strong> 1 (555) 555 - 8888</p>
+<h5>OFFICE HOURS</h5>
+<p>Monday - Friday 8 am - 5 pm<br />
+Saturday - Sunday Closed  </p>
+
+            </div>
+                                    <div  class="col-md-8">
+                <h5>Get in touch</h5>
+<p>Need some information? Ask us a question filling the form below</p>
+<p><form name="simple_form" id="simple_form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=xxxxx" method="post">
+
+        <input type="hidden" name="redirect_to" value="/thank-you-for-my-page" />
+
+        
+    <div class="form-group">
+                <div class="col-md-12">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Your name" />
+        </div>
+    </div>
+    <div class="form-group">
+                <div class="col-md-12">
+            <input type="email" name="email" class="form-control" id="email" placeholder="name@example.com">
+        </div>
+    </div>
+    <div class="form-group">
+                <div class="col-md-12">
+            <textarea name="message" class="col-md-12 form-control" rows="6" id="message" placeholder="Your message here" required></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-12">
+            <button type="submit" class="btn btn-default">Submit</button>
+        </div>
+    </div>
+</form>
+</p>
+
+            </div>
+                                </div>
+        </div>
+</section>
+";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:1:{s:15:"shortcodeAssets";a:1:{s:3:"css";a:1:{i:0;s:45:"plugin://gravstrap/css/gravstrap_contacts.css";}}}}}

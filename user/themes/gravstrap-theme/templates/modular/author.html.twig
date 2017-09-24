@@ -1,0 +1,31 @@
+<section id="author">
+    <div class="container author"> 
+        <div class="row">
+            <div class="author-image col-md-3 col-sm-12">
+                {{ page.media.images|first.cropZoom(200, 200) }}
+            </div>
+
+            <div class="author-about col-md-9 col-sm-12">
+                {{ page.content }}
+            </div>
+
+            {% if education is not null %}
+            <div class="author-lists author-education col-md-4 col-sm-12">
+                {{ education }}
+            </div>
+            {% endif %}
+
+            {% if experience is not null %}
+            <div class="author-lists author-experience col-md-4 col-sm-12">
+                {{ experience }}
+            </div>
+            {% endif %}
+
+            {% if skills is not null%}                
+            <div class="author-skills col-md-4 col-sm-12">
+                {{ skills }}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</section>

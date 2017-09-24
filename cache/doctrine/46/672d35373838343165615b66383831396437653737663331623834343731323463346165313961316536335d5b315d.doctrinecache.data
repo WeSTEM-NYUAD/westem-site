@@ -1,0 +1,52 @@
+1504669102
+a:2:{s:7:"content";s:2013:"<section>
+    <div class="container portfolio module"  >
+                                <div class="row">
+                <div >
+                    <h2>Showcase your work</h2>
+<p>Use the <code>Portfolio module</code> to spread your works to the world</p>
+<hr />
+<div class="row">
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/coffee.jpg" /> 
+                        </a>
+        </div>
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/farmerboy.jpg" /> 
+                        </a>
+        </div>
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/girl.jpg" /> 
+                        </a>
+        </div>
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/judah.jpg" /> 
+                        </a>
+        </div>
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/origami.jpg" /> 
+                        </a>
+        </div>
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/retrocam.jpg" /> 
+                        </a>
+        </div>
+    </div>
+                </div>
+            </div>
+                            
+                    </div>
+</section>
+";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:1:{s:15:"shortcodeAssets";a:1:{s:3:"css";a:1:{i:0;s:46:"plugin://gravstrap/css/gravstrap_portfolio.css";}}}}}

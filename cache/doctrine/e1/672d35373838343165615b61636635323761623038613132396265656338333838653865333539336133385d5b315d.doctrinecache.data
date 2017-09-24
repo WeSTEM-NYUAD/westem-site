@@ -1,0 +1,538 @@
+1501816522
+a:2:{s:7:"content";s:25247:"
+<h1>Bootstrap components for Grav CMS</h1>
+<p>A comprehensive list of all the Bootstrap components, you can use for free as shortcodes in your website.</p>
+<h2>Accordion</h2>
+<div id="accordion1" class="panel-group" role="tablist" aria-multiselectable="true">
+                                    <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion1" href="#accordion_item1" aria-expanded="true" aria-controls="accordion_item1">
+              Open me
+            </a>
+          </h4>
+        </div>
+        <div id="accordion_item1" class="panel-collapse collapse  in" role="tabpanel" aria-labelledby="">
+          <div class="panel-body">
+            <p>Anim pariatur cliche <strong>reprehenderit</strong>, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+          </div>
+        </div>
+      </div>
+                                    <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion1" href="#accordion_item2" aria-expanded="true" aria-controls="accordion_item2">
+              Open me too
+            </a>
+          </h4>
+        </div>
+        <div id="accordion_item2" class="panel-collapse collapse " role="tabpanel" aria-labelledby="">
+          <div class="panel-body">
+            <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+
+<h4>Code definition</h4>
+<pre><code>[g-accordion id=accordion1 name=accordion1]
+[g-accordion-item id=accordion_item1 header_id=accordion_header1 title="Open me"]
+
+Anim pariatur cliche **reprehenderit**, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+
+[/g-accordion-item]
+[g-accordion-item id=accordion_item2 header_id=accordion_header2 title="Open me too"]
+
+Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+
+[/g-accordion-item]
+[/g-accordion]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-accordion-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Alert</h2>
+<div class="alert alert-warning " role="alert" >
+    
+<h1>Oh snap! You got an error!</h1>
+<p>Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.</p>
+<p><a href="/gravstrap-components-for-grav-cms-application/bootstrap-components-as-shortcodes-for-grav-cms">Take this action</a> {.btn .btn-danger}
+<a href="/gravstrap-components-for-grav-cms-application/bootstrap-components-as-shortcodes-for-grav-cms">Or do this</a> {.btn .btn-default}</p>
+
+</div>
+<h4>Code definition</h4>
+<pre><code>[g-alert name=alert1 type=warning]
+# Oh snap! You got an error!
+
+Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.
+
+[Take this action](#) {.btn .btn-danger}
+[Or do this](#) {.btn .btn-default}
+[/g-alert]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-alert-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Carousel</h2>
+<div id="carousel1" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+                <li data-target="#carousel1"  data-slide-to="0" class="active"></li>
+                <li data-target="#carousel1"  data-slide-to="1"></li>
+                <li data-target="#carousel1"  data-slide-to="2"></li>
+            </ol>
+
+    <div class="carousel-inner" role="listbox">
+                                                    <div class="item active">
+            <img src="/user/pages/images/image1.jpg" /> 
+            <div class="carousel-caption"><p><strong>Duis mollis</strong>, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p></div>
+        </div>
+                                                    <div class="item">
+            <img src="/user/pages/images/image2.jpg" /> 
+            <div class="carousel-caption"><p>Cras mattis consectetur purus sit amet fermentum.</p></div>
+        </div>
+                                                    <div class="item">
+            <img src="/user/pages/images/image3.jpg" /> 
+            <div class="carousel-caption"><p>Cras mattis consectetur purus sit amet fermentum.</p></div>
+        </div>
+            </div>
+
+    <a class="left carousel-control" href="#carousel1" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel1" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<h4>Code definition</h4>
+<pre><code>[g-carousel id="carousel1" name=carousel1]
+
+[g-carousel-item image="image1.jpg"]
+**Duis mollis**, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+[/g-carousel-item]
+
+[g-carousel-item image="image2.jpg"]
+Cras mattis consectetur purus sit amet fermentum.
+[/g-carousel-item]
+
+[g-carousel-item image="image3.jpg"]
+Cras mattis consectetur purus sit amet fermentum.
+[/g-carousel-item]
+[/g-carousel]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-carousel-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Collapse</h2>
+<button class="btn btn-default " role="button" data-toggle="collapse" data-target="#collapse1"  aria-expanded="false" aria-controls="collapse">
+  Collapse
+</button>
+<div class="collapse" id="collapse1">
+            <div class="well " >
+    <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+</div>
+    </div>
+
+<h4>Code definition</h4>
+<pre><code>[g-collapse id="collapse1" name=collapse1 button_label="Collapse" attributes="aria-expanded:false,aria-controls:collapse"]
+[g-well name=well2]
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+[/g-well]
+[/g-collapse]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-collapse-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Dropdown</h2>
+<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle " type="button" data-toggle="dropdown">
+    Dropdown
+    <span class="caret"></span>
+  </button>
+      <ul class="dropdown-menu ">
+          <li><a href="http://example.com"><i class="fa fa-cog " ></i>
+Products</a>
+</li>
+              <li><a href="http://example.com"><i class="fa fa-gavel " ></i>
+Contacts</a>
+</li>
+      </ul>
+
+  </div>
+<h4>Code definition</h4>
+<pre><code>[g-dropdown name=dropdown1 label="Dropdown"]
+    [g-dropdown-item icon_type="fontawesome" ]
+        [g-link url="http://example.com" menu="Products" icon="cog"][/g-link]
+        [g-link url="http://example.com" menu="Contacts" icon="gavel"][/g-link]
+    [/g-dropdown-item]
+[/g-dropdown]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-dropdown-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Jumbotron</h2>
+<div class="jumbotron "   style="background-image: url('/user/pages/images/image1.jpg ')">
+        
+<h1>Gravstrap theme</h1>
+<p>Gravstrap Theme helps you to start a new Grav CMS site with Bootstrap support and several ready to use modules. It is also perfect to start a new Bootstrap custom theme, to create your unique design.</p>
+
+    </div>
+
+<h4>Code definition</h4>
+<pre><code>[g-jumbotron name="jumbotron1" image="image1.jpg"]
+# Gravstrap theme
+
+Gravstrap Theme helps you to start a new Grav CMS site with Bootstrap support and several ready to use modules. It is also perfect to start a new Bootstrap custom theme, to create your unique design.
+
+[/g-jumbotron]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-jumboron-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>List group</h2>
+<div class="list-group">
+                                 
+                <a href="" class="list-group-item list-group-item- active foo"   rel="bar">
+                        <span class="badge">12</span>
+                        <p>Cras mattis consectetur purus sit amet fermentum.</p>
+        </a>
+                                 
+                <a href="" class="list-group-item list-group-item- " >
+                        <span class="badge">15</span>
+                        <p>Cras mattis consectetur purus sit amet fermentum.</p>
+        </a>
+                                 
+                <a href="" class="list-group-item list-group-item- disabled " >
+                        <span class="badge"></span>
+                        <p>Cras mattis consectetur purus sit amet fermentum.</p>
+        </a>
+                                 
+                <a href="" class="list-group-item list-group-item- " >
+                        <span class="badge">2</span>
+                        <p>Cras mattis consectetur purus sit amet fermentum.</p>
+        </a>
+    </div>
+
+<h4>Code definition</h4>
+<pre><code>[g-listgroup name=listgroup1]
+
+[g-listgroup-item badge=12 active=true]
+Cras mattis consectetur purus sit amet fermentum.
+[/g-listgroup-item]
+
+[g-listgroup-item badge=15]
+Cras mattis consectetur purus sit amet fermentum.
+[/g-listgroup-item]
+
+[g-listgroup-item disabled=true]
+Cras mattis consectetur purus sit amet fermentum.
+[/g-listgroup-item]
+
+[g-listgroup-item badge=2]
+Cras mattis consectetur purus sit amet fermentum.
+[/g-listgroup-item]
+[/g-listgroup]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-listgroup-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Modal component</h2>
+<p><button type="button" class="btn btn-primary " data-toggle="modal"  data-target="#modal">Launch demo modal</button>
+</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Please note that here the button is just used to launch the modal.</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<div id="modal" class="modal fade" tabindex="-1" role="dialog" >
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" ><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Awesome</h4>
+      </div>
+      <div class="modal-body">
+          <p>Cras <strong>mattis</strong> consectetur purus sit amet fermentum.</p>
+      </div>
+      <div class="modal-footer">
+                    
+<p><button type="button" class="btn btn-primary ">Click Me</button>
+
+<button type="button" class="btn btn-default " data-dismiss="modal">Close Me</button>
+</p>
+
+                </div>
+    </div>
+  </div>
+</div>
+
+<h4>Code definition</h4>
+<pre><code>[g-modal id="modal" name="modal" title="Awesome"]
+Cras **mattis** consectetur purus sit amet fermentum.
+
+[g-modal-buttons]
+[g-button button_type="primary" button_label="Click Me" remove=true][/g-button]
+[g-button button_label="Close Me" button_attributes="data-dismiss:modal"][/g-button]
+[/g-modal-buttons]
+
+[/g-modal]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-modal-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Navbar component</h2>
+<nav class="navbar navbar-default "  >
+  <div class=" container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar3" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"> Brand </a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbar3">
+                    <ul class="nav navbar-nav  navbar-center
+" >
+                        <li><a href="/">Home</a>
+</li>
+                    <li><a href="/something-about-me">About</a>
+</li>
+                    <li><a href="/home-page-with-carousel-header">Carousel header</a>
+</li>
+                    <li><a href="/my-gravtastic-blog">Blog</a>
+</li>
+                    <li><a href="/gravstrap-theme-simple-page-example">Home single</a>
+</li>
+                    <li><li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Layouts <span class="caret"></span></a>
+    <ul class="dropdown-menu ">
+          <li><a href="/gravstrap-theme-versatile-internal-template/the-internal-template-in-detail">Internal template configured with two sidebars</a>
+</li>
+              <li><a href="/gravstrap-theme-versatile-internal-template/left-internal-template">Left internal template</a>
+</li>
+              <li><a href="/gravstrap-theme-versatile-internal-template/right-internal-template">Right column internal template</a>
+</li>
+              <li><a href="/gravstrap-theme-versatile-internal-template/fullwidth-template">Fullwidth template</a>
+</li>
+      </ul>
+</li>
+</li>
+                    <li><li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Components <span class="caret"></span></a>
+    <ul class="dropdown-menu ">
+          <li><a href="/gravstrap-components-for-grav-cms-application/basic-shortcodes-for-grav-cms">Basic</a>
+</li>
+              <li><a href="/gravstrap-components-for-grav-cms-application/bootstrap-components-as-shortcodes-for-grav-cms">Bootstrap</a>
+</li>
+              <li><a href="/gravstrap-components-for-grav-cms-application/modules-shortcodes-for-grav-cms">Modules</a>
+</li>
+              <li><a href="/gravstrap-components-for-grav-cms-application/dynamic-bootstrap-components-as-shortcodes-for-grav-cms">Dynamic components</a>
+</li>
+              <li><a href="/gravstrap-components-for-grav-cms-application/miscellaneous-components-as-shortcodes-for-grav-cms">Miscellaneous components</a>
+</li>
+      </ul>
+</li>
+</li>
+            </ul>
+
+                    <ul class="nav navbar-nav  my-class navbar-right
+"   rel="my-rel">
+                        <li><a href="https://facebook.com/gravstrap"><i class="fa fa-facebook " ></i>
+</a>
+</li>
+                    <li><a href="https://twitter.com/gravstrap"><i class="fa fa-twitter " ></i>
+</a>
+</li>
+                    <li><a href="https://github.com/giansi/gravstrap"><i class="fa fa-github " ></i>
+</a>
+</li>
+            </ul>
+
+            </div>
+  </div>
+</nav>
+
+<h4>Code definition</h4>
+<pre><code>[g-navbar id="navbar3" name="navbar3" centering=none brand_text="Gravstrap theme"]
+    [g-navbar-menu name=menu00 alignment="center" submenu="internal,components"][/g-navbar-menu]    
+    [g-navbar-menu name=menu01 icon_type="fontawesome" alignment="right" attributes="class: my-class,rel:my-rel"]
+        [g-link url="https://facebook.com/gravstrap" icon_type="fontawesome" icon="facebook"][/g-link]
+        [g-link url="https://twitter.com/gravstrap" icon="twitter"][/g-link]
+        [g-link url="https://github.com/giansi/gravstrap" icon="github"][/g-link]
+    [/g-navbar-menu]
+[/g-navbar]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-navbar-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Page header</h2>
+<p><div class="page-header " >
+    <h1>Title <small>Subtitle</small></h1>
+</div></p>
+<h4>Code definition</h4>
+<pre><code>[g-pageheader title="Title" subtitle="Subtitle"][/g-pageheader]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-pageheader-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Panel</h2>
+<div class="panel panel-default">
+    <div class="panel-heading">Title</div>
+    <div class="panel-body">
+      <p>Anim pariatur cliche <strong>reprehenderit</strong>, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
+  </div>
+  </div>
+<h4>Code definition</h4>
+<pre><code>[g-panel heading_title="Title"]
+Anim pariatur cliche **reprehenderit**, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+[/g-panel]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-panel-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Progressbar</h2>
+<p><div class="progress-label">Php</div>
+
+<div class="progress">
+    <div class="progress-bar progress-bar-success " role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%" >    <span class="sr-only">80% Complete</span>
+  </div>
+</div></p>
+<h4>Code definition</h4>
+<pre><code>[g-progressbar label="Php" type="success" value="80" min="0" max="100"][/g-progressbar]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-progressbar-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Splitbutton</h2>
+<div class="btn-group">
+  <button type="button" class="btn btn-primary ">Splitbutton</button>
+  <button type="button" class="btn btn-primary dropdown-toggle " data-toggle="dropdown">
+    <span class="caret"></span>
+    <span class="sr-only">Splitbutton</span>
+  </button>
+      <ul class="dropdown-menu ">
+          <li><a href="http://example.com"><i class="fa fa-twitter " ></i>
+Twitter</a>
+</li>
+              <li><a href="http://example.com"><i class="fa fa-facebook " ></i>
+Facebook</a>
+</li>
+      </ul>
+
+  </div>
+
+<h4>Code definition</h4>
+<pre><code>[g-splitbutton name=splitbutton1 label="Splitbutton" type=primary]
+    [g-splitbutton-item icon_type="fontawesome" ]
+        [g-link url="http://example.com" menu="Twitter" icon="twitter"][/g-link]
+        [g-link url="http://example.com" menu="Facebook" icon="facebook"][/g-link]
+    [/g-splitbutton-item]
+[/g-splitbutton]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-splitbutton-shortcode">Read the component documentation</a></p>
+<hr />
+<h2>Tab</h2>
+<ul class="nav nav-tabs" role="tablist">
+        
+                 
+        <li role="presentation" class="active"><a href="#tab_item1" aria-controls="tab_item1" role="tab" data-toggle="tab">tab_item1</a></li>
+        
+                 
+        <li role="presentation"><a href="#tab_item2" aria-controls="tab_item2" role="tab" data-toggle="tab">tab_item2</a></li>
+</ul>
+
+<div class="tab-content " >
+          
+                             
+                <div id="tab_item1" role="tabpanel" class="tab-pane active myclass"   rel="myrel"><p><strong>Cras mattis</strong> consectetur purus sit amet fermentum.</p></div>
+          
+                             
+                <div id="tab_item2" role="tabpanel" class="tab-pane " ><p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p></div>
+    </div>
+
+<h4>Code definition</h4>
+<pre><code>[g-tab name=tab1 attributes="class:myclass,rel:myrel"]
+
+[g-tab-item name="tab_item1" attributes="class:myclass,rel:myrel"]
+**Cras mattis** consectetur purus sit amet fermentum.
+[/g-tab-item]
+
+[g-tab-item name="tab_item2"]
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+[/g-tab-item]
+
+[/g-tab]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-tabs-shortcode">Read the component documentation</a></p>
+<hr />
+<h1>Thumbnail</h1>
+<p>Linked thumbnail:</p>
+<div class="row">
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/image1.jpg" /> 
+                        </a>
+        </div>
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/image2.jpg" /> 
+                        </a>
+        </div>
+                                        
+        <div class="col-md-4">
+                                                <a href="http://diblas.net" class="thumbnail">
+            <img src="/user/pages/images/image3.jpg" /> 
+                        </a>
+        </div>
+    </div>
+
+<pre><code>[g-thumbnail name=thumbnail1]
+[g-thumbnail-item image="image1.jpg" url="http://diblas.net"][/g-thumbnail-item]
+[g-thumbnail-item image="image2.jpg" url="http://diblas.net"][/g-thumbnail-item]
+[g-thumbnail-item image="image3.jpg" url="http://diblas.net"][/g-thumbnail-item]
+[/g-thumbnail]</code></pre>
+<p>Thumbnails with contents:</p>
+<div class="row">
+                                        
+        <div class="col-md-6">
+                                                <div class="thumbnail">
+            <img src="/user/pages/images/image1.jpg" /> 
+                        <div class="caption">
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+<p><a href="/gravstrap-components-for-grav-cms-application/bootstrap-components-as-shortcodes-for-grav-cms">Take this action</a> {.btn .btn-primary}</p>
+            </div>
+                        </div>
+        </div>
+                                        
+        <div class="col-md-6">
+                                                <div class="thumbnail">
+            <img src="/user/pages/images/image2.jpg" /> 
+                        <div class="caption">
+                <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+<p><a href="/gravstrap-components-for-grav-cms-application/bootstrap-components-as-shortcodes-for-grav-cms">Take this action</a> {.btn .btn-danger}</p>
+            </div>
+                        </div>
+        </div>
+    </div>
+
+<pre><code>[g-thumbnail name=thumbnail2]
+[g-thumbnail-item image="image1.jpg" class="col-md-6"]
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+
+[Take this action](#) {.btn .btn-primary}
+[/g-thumbnail-item]
+
+[g-thumbnail-item image="image2.jpg" class="col-md-6"]
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+
+[Take this action](#) {.btn .btn-danger}
+[/g-thumbnail-item]
+
+[/g-thumbnail]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-thumbnails-shortcode">Read the component documentation</a></p>
+<h2>Well</h2>
+<div class="well " >
+    <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+</div>
+<h4>Code definition</h4>
+<pre><code>[g-well name=well1]
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+[/g-well]</code></pre>
+<p><a href="http://diblas.net/plugins/use-bootstrap-components-as-shortcodes-in-grav-cms/gravstrap-well-shortcode">Read the component documentation</a></p>";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:2:{s:9:"shortcode";a:1:{s:11:"g-jumbotron";a:1:{s:10:"jumbotron1";O:38:"Grav\Plugin\Shortcodes\ShortCodeObject":2:{s:11:" * obj_name";s:10:"jumbotron1";s:13:" * obj_object";s:355:"<div class="jumbotron "   style="background-image: url('/user/pages/images/bg_bootstrap.jpg ')">
+        <div class="container">
+    
+<h1>Bootstrap components as shortcodes</h1>
+<p>Gravstrap plugin implements all Bootstrap components you can add to any page, using powerful shortcodes syntax: watch them in action in this page.</p>
+
+    </div>
+    </div>
+";}}}s:15:"shortcodeAssets";a:2:{s:3:"css";a:3:{i:0;s:46:"plugin://gravstrap/css/gravstrap_jumbotron.css";i:1;s:43:"plugin://gravstrap/css/gravstrap_navbar.css";i:2;s:48:"plugin://gravstrap/css/gravstrap_progressbar.css";}s:2:"js";a:2:{i:0;s:41:"plugin://gravstrap/js/gravstrap_navbar.js";i:1;s:31:"plugin://gravstrap/js/scroll.js";}}}}}

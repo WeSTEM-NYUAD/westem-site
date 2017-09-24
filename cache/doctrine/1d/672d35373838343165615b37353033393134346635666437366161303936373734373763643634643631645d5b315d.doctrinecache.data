@@ -1,0 +1,45 @@
+1501816559
+a:2:{s:7:"content";s:1919:"
+
+<div id="content-slide">
+  <div class="slideme">
+           <div class="modular-row showcase flush-top" style="background-image: url(/user/pages/03.home_carousel/_showcase/image1.jpg);">
+          <h1>We <strong>deliver</strong> nothing short of awesome !</h1>
+          <h2>Check out our portfolio to see our great work..</h2>
+          <a class="button" href="http://learn.getgrav.org">PORTFOLIO</a>
+      </div>
+           <div class="modular-row showcase flush-top" style="background-image: url(/user/pages/03.home_carousel/_showcase/image2.jpg);">
+          <h1>Aenean lacinia <strong>bibendum</strong> nulla sed consectetur. !</h1>
+          <h2>Etiam porta sem malesuada magna mollis euismod..</h2>
+          <a class="button" href="http://learn.getgrav.org">LOREM</a>
+      </div>
+           <div class="modular-row showcase flush-top" style="background-image: url(/user/pages/03.home_carousel/_showcase/image3.jpg);">
+          <h1>Cras  <strong>justo</strong> odio, dapibus ac facilisis in, quam.. !</h1>
+          <h2>Donec ullamcorper nulla non metus auctor fringilla..</h2>
+          <a class="button" href="http://learn.getgrav.org">DONEC</a>
+      </div>
+           <div class="modular-row showcase flush-top" style="background-image: url(/user/pages/03.home_carousel/_showcase/image4.jpg);">
+          <h1>Sed <strong>posuere</strong> consectetur est at lobortis. !</h1>
+          <h2>Cras mattis consectetur purus sit amet fermentum..</h2>
+          <a class="button" href="http://learn.getgrav.org">CRAS</a>
+      </div>
+        </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#content-slide').slideme({
+      arrows: true,
+      autoslide: false,
+      autoslideHoverStop: false,
+      interval: 2000,
+      loop: false,
+      pagination: "numbers",
+      transition : 'zoom',
+      itemsForSlide: 0,
+      touch: true,
+      swipe: true,
+    });
+});
+</script>
+";s:12:"content_meta";N;}

@@ -1,0 +1,49 @@
+1501816559
+a:2:{s:7:"content";s:1527:"<section>
+    <div class="container  module where-we-are"  >
+        <h2>Show your customers where you are</h2>
+<p>Use the <code>Where we are</code> module to tell your customers where you are</p>
+<hr />
+<div id="map" class="googlemap">
+</div>
+
+<script>
+    function initMap() {
+        var mapOptions = {
+            'center': {"lat":41.90278,"lng":12.49637},
+            'zoom': 12
+        };
+
+        var markers = [];
+                var markerOptions = {
+          position: {"lat":41.90278,"lng":12.49637},
+          title: "Gravstrap theme",
+          info: "<p><strong>Meet Us</strong><br />We are there!</p>"        }
+        markers.push(markerOptions);
+        
+        var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv, mapOptions);
+
+        for (var i = 0; i < markers.length; i++) {
+            var markerOptions = markers[i];
+            markerOptions.map = map;
+            markerOptions.animation = google.maps.Animation.DROP;
+            var marker = new google.maps.Marker(markerOptions);
+
+            if (markerOptions.hasOwnProperty('info')) {
+                var infowindow = new google.maps.InfoWindow({
+                    content: markerOptions.info
+                });
+                marker.addListener('click', function() {
+                    infowindow.open(map, marker);
+                });
+            }
+        }
+    }
+</script>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap">
+</script>
+    </div>
+</section>
+";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:1:{s:15:"shortcodeAssets";a:1:{s:3:"css";a:2:{i:0;s:46:"plugin://gravstrap/css/gravstrap_googlemap.css";i:1;s:49:"plugin://gravstrap/css/gravstrap_where_we_are.css";}}}}}

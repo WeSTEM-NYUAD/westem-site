@@ -1,0 +1,97 @@
+1501816559
+a:2:{s:7:"content";s:3272:"<section>
+    <div class="container team module"  >
+                                <div class="row">
+                <div >
+                    <h2>Introduce your awesome team</h2>
+<p>Use the <code>Team module</code> to introduce your awesome team.</p>
+<hr />
+                </div>
+            </div>
+                            
+                <div class="row">
+                                                            
+            <div  class="col-md-4">
+                <div class="item-image">
+                    <img src="/images/1/8/d/e/d/18ded5d9349b3f5baa1446decba556534151e5fa-jane.jpeg" />
+                </div>
+                                <div class="item-text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<div class="item-social">
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-twitter"></i>
+</span>
+</a>
+
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-facebook"></i>
+</span>
+</a>
+
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-linkedin"></i>
+</span>
+</a>
+
+</div></div>
+                            </div>
+                                                            
+            <div  class="col-md-4">
+                <div class="item-image">
+                    <img src="/images/e/0/4/5/8/e0458dc473fe28d69b2abe981deb42bb6d2c9cd5-mark.jpeg" />
+                </div>
+                                <div class="item-text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<div class="item-social">
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-twitter"></i>
+</span>
+</a>
+
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-facebook"></i>
+</span>
+</a>
+
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-linkedin"></i>
+</span>
+</a>
+
+</div></div>
+                            </div>
+                                                            
+            <div  class="col-md-4">
+                <div class="item-image">
+                    <img src="/images/7/8/0/4/c/7804c471dbac03d8aca93f920e551b1bd818ee2c-julia.jpeg" />
+                </div>
+                                <div class="item-text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<div class="item-social">
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-twitter"></i>
+</span>
+</a>
+
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-facebook"></i>
+</span>
+</a>
+
+<a href="#"><span class="fa-stack">
+  <i class="fa fa-stack-2x fa-circle-thin"></i>
+  <i class="fa fa-stack-1x fa-linkedin"></i>
+</span>
+</a>
+
+</div></div>
+                            </div>
+                </div>
+        </div>
+</section>
+";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:1:{s:15:"shortcodeAssets";a:1:{s:3:"css";a:1:{i:0;s:41:"plugin://gravstrap/css/gravstrap_team.css";}}}}}

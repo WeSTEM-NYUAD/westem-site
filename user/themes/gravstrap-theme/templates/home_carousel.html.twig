@@ -1,0 +1,12 @@
+{% embed 'partials/base.html.twig' %}
+    {% block header %}
+    {{ navbar1 }}
+    {% endblock %}
+
+    {% block content %}
+    {% for module in page.collection() %}
+        {{ module.content }}
+    {% endfor %}
+
+    {% endblock %}
+{% endembed %}

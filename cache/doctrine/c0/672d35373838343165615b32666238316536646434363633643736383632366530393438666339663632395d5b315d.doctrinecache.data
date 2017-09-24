@@ -1,0 +1,4 @@
+1501816545
+a:2:{s:7:"content";s:284:"<p>The blog skeleton also supports <strong>Daring Fireball</strong> style link posts.  Simply add a link setting in your page header:</p>
+<pre><code>link: http://daringfireball.net</code></pre>
+<p>And your blog title becomes a link directly to that link you specified. Easy peasy!</p>";s:12:"content_meta";N;}

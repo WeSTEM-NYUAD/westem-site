@@ -1,0 +1,48 @@
+1504669102
+a:2:{s:7:"content";s:2362:"<section>
+    <div class="container clients module"  >
+                                <div class="row">
+                <div >
+                    <h2>Show out the clients who trust your business</h2>
+<p>Use the <code>Clients module</code> to show your customers, the clients who already trust your business</p>
+<hr />
+<p>
+
+
+
+
+
+
+</p>
+                </div>
+            </div>
+                            
+                <div class="row">
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/apple.svg" />
+                            </div>
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/canon.svg" />
+                            </div>
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/forbes.svg" />
+                            </div>
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/hp.svg" />
+                            </div>
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/intel.svg" />
+                            </div>
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/samsung.svg" />
+                            </div>
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/siemens.svg" />
+                            </div>
+                                                                        <div class="item-image col-md-3"  >
+                                                <img src="/user/pages/images/vaio.svg" />
+                            </div>
+                </div>
+        </div>
+</section>
+";s:12:"content_meta";a:1:{s:13:"shortcodeMeta";a:1:{s:15:"shortcodeAssets";a:1:{s:3:"css";a:1:{i:0;s:44:"plugin://gravstrap/css/gravstrap_clients.css";}}}}}

@@ -1,0 +1,75 @@
+@import "../../../../../plugins/gravstrap/sass/lib/sass/mixins/navbar"
+.navbar
+    font-family: $font-family-header
+
+    ul.navbar-right li
+
+        a
+            padding: 1.4rem 0.7rem
+
+.navbar-brand
+    font-size: 2.5rem
+
+.jumbotron
+    color: #fff
+
+.jumbotron .btn
+    margin-top: 5rem
+
+    @media screen and (max-width: 1050px)
+        margin-top: 2rem
+
+    @media screen and (max-width: 800px)
+        font-size: 16px
+
+.jumbotron a:hover
+    background-color: #fff
+
+.jumbotron a:active
+    color: #fff
+
+.btn-outline-inverse
+    color: #fff
+    background-color: transparent
+    border-color: #cdbfe3
+
+.navbar-default .navbar-toggle .icon-bar
+    background-color: #fff
+
+.header .navbar-default .navbar-toggle .icon-bar
+    background-color: #888
+
+@media screen and (max-width: 768px)
+    .navbar-right
+        padding-left: 6px
+
+        li
+            float: left
+
+@media screen and (max-width: 900px)
+    .navbar
+        padding: 0.5rem !important
+        text-align: left !important
+
+@media screen and (max-width: 440px)
+    .jumbotron
+        background-position: center
+
+// Enable this two classes below if you want to use images with different resolutions
+// @media screen and (max-width: 1366px)
+//     .jumbotron
+//         background-image: url(images/bg.jpg)
+
+// @media screen and (min-width: 1367px)
+//     .jumbotron
+//         background-image: url(images/bg1920.jpg)
+
+.header
+    margin-bottom: 12rem
+    .navbar
+        +navbar(#fff, #6e6e6e, #6e6e6e, #010101, #6e6e6e, #010101, #010101)
+        // box-shadow: 0 0.05rem 1rem #333
+
+@media screen and (max-width: 440px)
+    .header
+        margin-bottom: 6rem
