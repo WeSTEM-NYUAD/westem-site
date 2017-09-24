@@ -115,6 +115,6 @@ class __TwigTemplate_56681cd4a8c71e466ca936f1d05652f92fc9c9379505d00195acca23f2a
         {% block module_content %}
         {% endblock %}
     </div>
-</section>", "modules/partials/base_module.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/modules/partials/base_module.html.twig");
+</section>", "modules/partials/base_module.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/modules/partials/base_module.html.twig");
     }
 }

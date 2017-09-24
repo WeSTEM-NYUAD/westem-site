@@ -2,19 +2,26 @@
 title: About
 metadata:
   description: A versatile module to implement an author page
-slug: something-about-me
+slug: about
 ---
+
+
+
+
 
 [g-section-extended name=main attributes="class:col-md-12"]
 
 
 
-
-
-
-
-
  [g-team name=team attributes="class:team module"]
+
+## Our Mission
+<br>
+weSTEM at NYU Abu Dhabi was established to support women interested in science, technology, engineering, and mathematics by providing a platform of shared knowledge, encouragement, and inspiration.
+Our mission is to increase the participation and success of women interested in pursuing degrees and careers in the STEM fields at our university and in the region. weSTEM provides networking and leadership development opportunities, mentoring and resources for women in STEM fields to develop and enhance their careers.
+
+![team](westem-team.jpg)
+<br>
 
  ## Leadership
 

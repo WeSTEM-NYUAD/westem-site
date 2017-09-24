@@ -16,7 +16,7 @@ class __TwigTemplate_7ffedff374c67d89dc66e9980b7256ccfebf6ef8e07ad12e8ceead1a513
     protected function doDisplay(array $context, array $blocks = array())
     {
         // line 1
-        $this->loadTemplate("modules/portfolio.html.twig", "modules/portfolio.html.twig", 1, "821019979")->display($context);
+        $this->loadTemplate("modules/portfolio.html.twig", "modules/portfolio.html.twig", 1, "846838502")->display($context);
     }
 
     public function getTemplateName()
@@ -45,13 +45,13 @@ class __TwigTemplate_7ffedff374c67d89dc66e9980b7256ccfebf6ef8e07ad12e8ceead1a513
         {{ item }}
     {% endfor %}
     {% endblock %}
-{% endembed %}", "modules/portfolio.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/modules/portfolio.html.twig");
+{% endembed %}", "modules/portfolio.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/modules/portfolio.html.twig");
     }
 }
 
 
 /* modules/portfolio.html.twig */
-class __TwigTemplate_7ffedff374c67d89dc66e9980b7256ccfebf6ef8e07ad12e8ceead1a513e6c48_821019979 extends Twig_Template
+class __TwigTemplate_7ffedff374c67d89dc66e9980b7256ccfebf6ef8e07ad12e8ceead1a513e6c48_846838502 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {
@@ -125,6 +125,6 @@ class __TwigTemplate_7ffedff374c67d89dc66e9980b7256ccfebf6ef8e07ad12e8ceead1a513
         {{ item }}
     {% endfor %}
     {% endblock %}
-{% endembed %}", "modules/portfolio.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/modules/portfolio.html.twig");
+{% endembed %}", "modules/portfolio.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/modules/portfolio.html.twig");
     }
 }

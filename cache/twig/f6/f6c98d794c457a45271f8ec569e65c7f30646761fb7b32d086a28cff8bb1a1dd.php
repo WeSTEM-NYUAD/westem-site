@@ -16,7 +16,7 @@ class __TwigTemplate_288261b00b6167c2224e00806b2f8f77cb125778b3f1f7003fe984fea38
     protected function doDisplay(array $context, array $blocks = array())
     {
         // line 1
-        $this->loadTemplate("home.html.twig", "home.html.twig", 1, "1683368859")->display($context);
+        $this->loadTemplate("home.html.twig", "home.html.twig", 1, "1292223520")->display($context);
     }
 
     public function getTemplateName()
@@ -51,13 +51,13 @@ class __TwigTemplate_288261b00b6167c2224e00806b2f8f77cb125778b3f1f7003fe984fea38
         {{ content }}
     {% endblock %}
 {% endembed %}
-", "home.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/themes/gravstrap-theme/templates/home.html.twig");
+", "home.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/themes/gravstrap-theme/templates/home.html.twig");
     }
 }
 
 
 /* home.html.twig */
-class __TwigTemplate_288261b00b6167c2224e00806b2f8f77cb125778b3f1f7003fe984fea38f9a0c_1683368859 extends Twig_Template
+class __TwigTemplate_288261b00b6167c2224e00806b2f8f77cb125778b3f1f7003fe984fea38f9a0c_1292223520 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {
@@ -144,6 +144,6 @@ class __TwigTemplate_288261b00b6167c2224e00806b2f8f77cb125778b3f1f7003fe984fea38
         {{ content }}
     {% endblock %}
 {% endembed %}
-", "home.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/themes/gravstrap-theme/templates/home.html.twig");
+", "home.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/themes/gravstrap-theme/templates/home.html.twig");
     }
 }

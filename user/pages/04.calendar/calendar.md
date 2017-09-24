@@ -1,0 +1,11 @@
+---
+title: Events
+metadata:
+  description: The internal.html.twig template configured to display the
+slug: events
+
+---
+
+<!-- [g-calendar attributes="class:col-md-4"]
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nyu.edu_h2qcukh4q1nism2ds2srdpud1s%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Asia%2FDubai" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+[/g-calendar] -->

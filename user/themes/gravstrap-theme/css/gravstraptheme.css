@@ -915,3 +915,18 @@ blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > p 
 blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > p a:hover {
   color: #6ec06e;
 }
+
+
+
+
+
+
+
+
+/*CALENDAR*/
+.calendar{
+  width: 50%;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}

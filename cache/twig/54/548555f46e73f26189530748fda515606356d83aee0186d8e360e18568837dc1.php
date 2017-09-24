@@ -93,6 +93,6 @@ class __TwigTemplate_3fafbf3a3055bc990269d2c9835dff72eae26cf61407e134b11550a8468
         </div>
     </div>
 </footer>
-", "footer/footer_one.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/footer/footer_one.html.twig");
+", "footer/footer_one.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/footer/footer_one.html.twig");
     }
 }

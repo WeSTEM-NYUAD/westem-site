@@ -141,6 +141,6 @@ class __TwigTemplate_5cfce7261eedbc320753489be8eeed5c89472059a493247a12b69c8268d
     }
     </script>
 </div>
-", "partials/simplesearch_searchbox.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/simplesearch/templates/partials/simplesearch_searchbox.html.twig");
+", "partials/simplesearch_searchbox.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/simplesearch/templates/partials/simplesearch_searchbox.html.twig");
     }
 }

@@ -1156,6 +1156,6 @@ class __TwigTemplate_dec88d5ee4e7c10bcd3efbbb7d22c702f742e89d359525b74710d59df8c
     </div>
 </div>
 {% endif %}
-{% endblock %}", "blog/pure/blog_theme.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/blog-injector/templates/blog/pure/blog_theme.html.twig");
+{% endblock %}", "blog/pure/blog_theme.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/blog-injector/templates/blog/pure/blog_theme.html.twig");
     }
 }

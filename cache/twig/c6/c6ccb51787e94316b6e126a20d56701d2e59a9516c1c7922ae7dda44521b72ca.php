@@ -58,6 +58,6 @@ class __TwigTemplate_7e3dd2de19e0633d857683e100ba6697bfe4750c838558d5eef023435bc
     <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\">{{ menu }} <span class=\"caret\"></span></a>
     {% include \"bootstrap/partials/_dropdown_items.html.twig\" %}
 </li>
-", "bootstrap/partials/_navbar_dropdown.html.twig", "/Users/brookehopkins/Documents/Development/grav-admin/user/plugins/gravstrap/templates/bootstrap/partials/_navbar_dropdown.html.twig");
+", "bootstrap/partials/_navbar_dropdown.html.twig", "/Users/brookehopkins/Documents/Development/westem-site/user/plugins/gravstrap/templates/bootstrap/partials/_navbar_dropdown.html.twig");
     }
 }
