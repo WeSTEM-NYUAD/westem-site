@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1506245898,
-    'checksum' => '389a5294a973caa2cdfb30a40a3c9133',
+    'timestamp' => 1506255376,
+    'checksum' => 'fd8907e368e6a431505e0f8dbc64d477',
     'files' => [
         'user/config' => [
             'media' => [
@@ -15,7 +15,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1506240315
+                'modified' => 1506254848
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -677,18 +677,18 @@ return [
             ]
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => 'weSTEM',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Joe Bloggs',
-                'email' => 'joe@test.com'
+                'name' => 'Brooke Hopkins',
+                'email' => 'nyuad.westem.sig@nyu.edu'
             ],
             'taxonomies' => [
                 0 => 'category',
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+                'description' => 'Women empowered in STEM at NYU Abu Dhabi'
             ],
             'summary' => [
                 'enabled' => true,
