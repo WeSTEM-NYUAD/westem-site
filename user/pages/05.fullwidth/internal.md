@@ -28,9 +28,11 @@ Our mission is to increase the participation and success of women interested in 
 
  ___
 
- [g-team-item image="brooke.jpg" attributes="class:col-md-4"]
- <h6>President </h6>
-
+ [g-team-item image="brooke.jpg" attributes="class:col-md-3"]
+ <div class="item-icon">
+ <h5>Brooke Hopkins</h5>
+ President
+ </div>
  <div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
@@ -39,8 +41,11 @@ Our mission is to increase the participation and success of women interested in 
 
  [/g-team-item]
 
- [g-team-item image="mark.jpg" attributes="class:col-md-4"]
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ [g-team-item image="lujain.jpg" attributes="class:col-md-3"]
+ <div class="item-icon">
+ <h5>Lujain Ibrahim</h5>
+ Vice President
+ </div>
  <div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
@@ -49,8 +54,11 @@ Our mission is to increase the participation and success of women interested in 
 
  [/g-team-item]
 
- [g-team-item image="julia.jpg" attributes="class:col-md-4"]
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ [g-team-item image="alexandra.jpg" attributes="class:col-md-3"]
+ <div class="item-icon">
+ <h5>Alexandra Urbanikova</h5>
+ Events Coordinator
+ </div>
  <div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
@@ -58,8 +66,22 @@ Our mission is to increase the participation and success of women interested in 
  </div>
 
  [/g-team-item]
+ [g-team-item image="dana.jpg" attributes="class:col-md-3"]
+ <div class="item-icon">
+ <h5>Dana Abu Ali</h5>
+ Treasurer
+ </div>
+ <div class="item-social">
+ [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
+ [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
+ [g-link url="#" icon="linkedin" icon_type="fontawesome" stacked=true][/g-link]
+ </div>
+
+ [/g-team-item]
+
  [/g-team]
 
+ [g-clients name=clients attributes="class:clients module"]
 
 
 
