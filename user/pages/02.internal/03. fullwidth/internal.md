@@ -9,6 +9,8 @@ slug: high-school-workshops
 [g-section-extended name=main attributes="class:col-md-12"]
 # High School Workshops
 
-weSTEM is organizes an anual a one-day conference for high school girls in Abu Dhabi where they will have the chance of learning about career prospects with a STEM degree and the opportunity to work on hands-on projects in labs of the Science, Engineering and Interactive Media Departments of NYUAD.
+WeSTEM Holds many workshops for high school girls to encourage women participation in STEM in Abu Dhabi.
+
+The series of workshops aims to provide high school students with the tools necessary to better develop, manage and communicate scientific projects on a national, regional and an international level. Based on past experience, we have come to a number of topics we would like to address through these workshops: ideation, research, documentation, presentation, communication, coordination, and networking. These skills are not specific to the STEM field, yet they can be a determining factor between a merely good and a memorable, worthwhile project. The majority of the workshops’ time will be dedicated to hands on activities, where students will be asked to fulfill prompts that aim to put in use one or more of the skills highlighted earlier, and that work towards the completion of a longer term prompt.
 
 [/g-section-extended]
