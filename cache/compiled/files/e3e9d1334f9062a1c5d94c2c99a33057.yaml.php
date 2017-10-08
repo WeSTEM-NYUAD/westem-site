@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/system/languages/no.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333259,
     'data' => [
         'FRONTMATTER_ERROR_PAGE' => '---
 Tittel: %1$s

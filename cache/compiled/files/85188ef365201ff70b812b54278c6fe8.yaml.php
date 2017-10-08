@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/admin/languages/hr.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333846,
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => 'Ovo je Beta izdanje! Koristite u produkciji na vlastiti rizik...',

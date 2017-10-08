@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/admin/languages/lt.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333849,
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => 'Tai Grav administravimo įskiepio beta versija! Naudokite atsargiai...',

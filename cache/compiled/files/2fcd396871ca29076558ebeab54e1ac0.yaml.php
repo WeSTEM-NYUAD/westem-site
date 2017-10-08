@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/login/languages.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333759,
     'data' => [
         'en' => [
             'PLUGIN_LOGIN' => [

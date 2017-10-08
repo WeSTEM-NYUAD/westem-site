@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/system/languages/nl.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333259,
     'data' => [
         'INFLECTOR_IRREGULAR' => [
             'person' => 'personen',

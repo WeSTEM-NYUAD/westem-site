@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/blog-injector/blueprints.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333738,
     'data' => [
         'name' => 'BlogInjector',
         'version' => '1.2.3',

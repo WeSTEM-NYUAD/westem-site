@@ -2,15 +2,15 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/config/site.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333264,
     'data' => [
-        'title' => 'Grav',
+        'title' => 'weSTEM',
         'author' => [
-            'name' => 'Joe Bloggs',
-            'email' => 'joe@test.com'
+            'name' => 'Brooke Hopkins',
+            'email' => 'nyuad.westem.sig@nyu.edu'
         ],
         'metadata' => [
-            'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+            'description' => 'Women empowered in STEM at NYU Abu Dhabi'
         ]
     ]
 ];

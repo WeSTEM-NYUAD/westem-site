@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/system/languages/hr.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333257,
     'data' => [
         'INFLECTOR_UNCOUNTABLE' => [
             0 => 'oprema',

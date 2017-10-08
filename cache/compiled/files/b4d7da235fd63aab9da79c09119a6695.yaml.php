@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/system/languages/th.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333262,
     'data' => [
         'FRONTMATTER_ERROR_PAGE' => '---
 ชื่อเรื่อง: %1$s

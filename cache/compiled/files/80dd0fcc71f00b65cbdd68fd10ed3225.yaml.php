@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/admin/blueprints.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333731,
     'data' => [
         'name' => 'Admin Panel',
         'version' => '1.5.1',

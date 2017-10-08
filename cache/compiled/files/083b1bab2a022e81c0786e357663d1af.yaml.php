@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/blueprints.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333755,
     'data' => [
         'name' => 'Gravstrap',
         'version' => '1.2.3',

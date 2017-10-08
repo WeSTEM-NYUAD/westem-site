@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/taxonomylist/blueprints.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333776,
     'data' => [
         'name' => 'Taxonomy List',
         'version' => '1.2.7',

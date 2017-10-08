@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/breadcrumbs/blueprints.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333740,
     'data' => [
         'name' => 'Breadcrumbs',
         'version' => '1.5.0',

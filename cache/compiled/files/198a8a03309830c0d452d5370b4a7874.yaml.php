@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/markdown-notices/blueprints.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333761,
     'data' => [
         'name' => 'Markdown Notices',
         'version' => '1.0.0',

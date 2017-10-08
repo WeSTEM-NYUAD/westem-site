@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/email/email.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333744,
     'data' => [
         'enabled' => true,
         'from' => NULL,

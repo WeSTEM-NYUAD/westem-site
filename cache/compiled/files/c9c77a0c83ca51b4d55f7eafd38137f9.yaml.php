@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/breadcrumbs/breadcrumbs.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333741,
     'data' => [
         'enabled' => true,
         'show_all' => true,

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/simplesearch/blueprints.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333773,
     'data' => [
         'name' => 'SimpleSearch',
         'version' => '1.12.0',

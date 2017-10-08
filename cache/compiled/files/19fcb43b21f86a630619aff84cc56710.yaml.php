@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/system/config/system.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333253,
     'data' => [
         'absolute_urls' => false,
         'timezone' => '',

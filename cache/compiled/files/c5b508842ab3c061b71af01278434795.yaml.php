@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/system/languages/nb.yaml',
-    'modified' => 1506243347,
+    'modified' => 1506333258,
     'data' => [
         'MONTHS_OF_THE_YEAR' => [
             0 => 'januar',
