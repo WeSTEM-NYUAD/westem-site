@@ -1,121 +1,121 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1507488229,
-    'checksum' => 'ef93ab28ee246bb0a085c306dafba1c0',
+    'timestamp' => 1507488760,
+    'checksum' => 'fd8907e368e6a431505e0f8dbc64d477',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1506333263
+                'modified' => 1506240315
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1506333264
+                'modified' => 1506240315
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1506333264
+                'modified' => 1506254848
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1506333265
+                'modified' => 1506240315
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1506333265
+                'modified' => 1506240315
             ],
             'themes/gravstrap-theme' => [
                 'file' => 'user/config/themes/gravstrap-theme.yaml',
-                'modified' => 1506333707
+                'modified' => 1506240315
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1506333252
+                'modified' => 1506240315
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1506333252
+                'modified' => 1506240315
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1506333252
+                'modified' => 1506240315
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1506333253
+                'modified' => 1506240315
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1506333731
+                'modified' => 1506240315
             ],
             'plugins/archives' => [
                 'file' => 'user/plugins/archives/archives.yaml',
-                'modified' => 1506333734
+                'modified' => 1506240315
             ],
             'plugins/blog-injector' => [
                 'file' => 'user/plugins/blog-injector/blog-injector.yaml',
-                'modified' => 1506333738
+                'modified' => 1506240315
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1506333741
+                'modified' => 1506240315
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1506333744
+                'modified' => 1506240315
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1506333747
+                'modified' => 1506240316
             ],
             'plugins/feed' => [
                 'file' => 'user/plugins/feed/feed.yaml',
-                'modified' => 1506333749
+                'modified' => 1506240316
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1506333753
+                'modified' => 1506240316
             ],
             'plugins/gravstrap' => [
                 'file' => 'user/plugins/gravstrap/gravstrap.yaml',
-                'modified' => 1506333756
+                'modified' => 1506240316
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1506333760
+                'modified' => 1506240316
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1506333762
+                'modified' => 1506240316
             ],
             'plugins/pagination' => [
                 'file' => 'user/plugins/pagination/pagination.yaml',
-                'modified' => 1506333764
+                'modified' => 1506240316
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1506333767
+                'modified' => 1506240316
             ],
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/relatedpages.yaml',
-                'modified' => 1506333769
+                'modified' => 1506240316
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/plugins/shortcode-core/shortcode-core.yaml',
-                'modified' => 1506333773
+                'modified' => 1506240316
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1506333776
+                'modified' => 1506240316
             ],
             'plugins/taxonomylist' => [
                 'file' => 'user/plugins/taxonomylist/taxonomylist.yaml',
-                'modified' => 1506333779
+                'modified' => 1506240316
             ]
         ]
     ],
