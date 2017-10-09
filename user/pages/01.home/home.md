@@ -7,6 +7,12 @@ taxonomy:
 metadata:
     description: WESTEM at NYU Abu Dhabi seeks to help increase the number of women successful in STEM studies and careers.
     author: Brooke Hopkins
+#simple_form:
+#    token: "8cf5cd91842b74a10e3b070a1053c26"
+#    template_file: default
+#    redirect_to: /thank-you-for-contact-us
+#process:
+#    twig: true
 
 ---
 
@@ -150,11 +156,11 @@ ___
 ___
 
 [g-section name="form"]
+
 ##### Email
 Want to collaborate? Questions? Ideas? Write to us.
-
-[g-simple-form token="xxxxx" redirect_to="/thank-you-for-my-page" render=true][/g-simple-form]
-
+<!--{{ simple_form() }}-->
+[g-simple-form token="9ede48c3a4f5062fe6d9cda8364167d3" method="post" render=true][/g-simple-form]
 
 
 [/g-contacts]
