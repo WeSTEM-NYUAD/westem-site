@@ -15,6 +15,7 @@
    <!-- Begin MailChimp Signup Form -->
 
    <div id="mc_embed_signup">
+  
    <form action="https://facebook.us11.list-manage.com/subscribe/post" method="POST">
    <input type="hidden" name="u" value="cf0984e48ba82c44f89a08f06">
    <input type="hidden" name="id" value="cb2f64cd2e">
