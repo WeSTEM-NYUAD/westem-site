@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1507488231,
-    'checksum' => '9e2f5f7c8265cbd5e010cffc02009a94',
+    'timestamp' => 1508055044,
+    'checksum' => '2a67624f0977bb4a4c3c4bd781d10c7c',
     'files' => [
         'system/languages' => [
             'ar' => [
@@ -142,6 +142,10 @@ return [
             'plugins/relatedpages' => [
                 'file' => 'user/plugins/relatedpages/languages.yaml',
                 'modified' => 1506333768
+            ],
+            'plugins/simple_form' => [
+                'file' => 'user/plugins/simple_form/languages.yaml',
+                'modified' => 1507541949
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/languages.yaml',
@@ -5552,6 +5556,38 @@ Pfad: `%2$s`
                 'ADVANCED' => 'Advanced',
                 'TAXONOMY_SCORE_SCALE' => 'Taxonomy-taxonomy score scale',
                 'CONTENT_SCORE_SCALE' => 'Taxonomy-content score scale'
+            ],
+            'PLUGIN_SIMPLE_FORM' => [
+                'TEMPLATES' => [
+                    'DEFAULT' => 'Default template from this plugin'
+                ],
+                'ADMIN' => [
+                    'BLUEPRINTS' => [
+                        'GLOBAL' => [
+                            'PLUGIN_STATUS' => 'Plugin status',
+                            'ENABLED' => 'Enabled',
+                            'DISABLED' => 'Disabled'
+                        ],
+                        'TAB' => [
+                            'TITLE' => 'Simple Form',
+                            'FIELDS' => [
+                                'TOKEN' => [
+                                    'LABEL' => 'SimpleForm.com Token',
+                                    'PLACEHOLDER' => 'Insert your API key here.',
+                                    'HELP' => 'API key from https://simpleform.com site.'
+                                ],
+                                'TEMPLATE_FILE' => [
+                                    'LABEL' => 'Template Filename',
+                                    'PLACEHOLDER' => 'Select one template filename'
+                                ],
+                                'REDIRECT_TO' => [
+                                    'LABEL' => 'Redirect to page',
+                                    'PLACEHOLDER' => 'Select one page for redirect'
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Search...',
@@ -18047,7 +18083,7 @@ Path: `%2$s`
                 6 => 'søndag'
             ]
         ],
-        'checksum' => '9e2f5f7c8265cbd5e010cffc02009a94',
-        'timestamp' => 1507488231
+        'checksum' => '2a67624f0977bb4a4c3c4bd781d10c7c',
+        'timestamp' => 1508055044
     ]
 ];

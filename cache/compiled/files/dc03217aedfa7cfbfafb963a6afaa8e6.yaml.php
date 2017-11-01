@@ -2,13 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/email/email.yaml',
-    'modified' => 1506333744,
+    'modified' => 1507541949,
     'data' => [
         'enabled' => true,
-        'from' => NULL,
-        'from_name' => NULL,
-        'to' => NULL,
-        'to_name' => NULL,
+        'from' => 'nyuadwestem@gmail.com',
+        'from_name' => 'westem',
+        'to' => 'nyuadwestem@gmail.com',
+        'to_name' => 'westem',
         'mailer' => [
             'engine' => 'mail',
             'smtp' => [

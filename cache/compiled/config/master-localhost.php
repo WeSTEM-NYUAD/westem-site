@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1507488229,
-    'checksum' => 'ef93ab28ee246bb0a085c306dafba1c0',
+    'timestamp' => 1507983062,
+    'checksum' => 'd2e3960d040a2bb7eaa64aba13a9d15f',
     'files' => [
         'user/config' => [
             'media' => [
@@ -67,7 +67,7 @@ return [
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1506333744
+                'modified' => 1507541949
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
@@ -108,6 +108,10 @@ return [
             'plugins/shortcode-core' => [
                 'file' => 'user/plugins/shortcode-core/shortcode-core.yaml',
                 'modified' => 1506333773
+            ],
+            'plugins/simple_form' => [
+                'file' => 'user/plugins/simple_form/simple_form.yaml',
+                'modified' => 1507541949
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
@@ -213,10 +217,10 @@ return [
             ],
             'email' => [
                 'enabled' => true,
-                'from' => NULL,
-                'from_name' => NULL,
-                'to' => NULL,
-                'to_name' => NULL,
+                'from' => 'nyuadwestem@gmail.com',
+                'from_name' => 'westem',
+                'to' => 'nyuadwestem@gmail.com',
+                'to_name' => 'westem',
                 'mailer' => [
                     'engine' => 'mail',
                     'smtp' => [
@@ -386,6 +390,9 @@ return [
                     'load' => true,
                     'url' => '//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css'
                 ]
+            ],
+            'simple_form' => [
+                'enabled' => true
             ],
             'simplesearch' => [
                 'enabled' => true,

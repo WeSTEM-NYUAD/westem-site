@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1507488234,
-    'checksum' => '8c39445b6ff12e842351ccaac6196575',
+    'timestamp' => 1507983068,
+    'checksum' => '4892ab4eea175f8d819275202c0430a4',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
@@ -88,6 +88,10 @@ return [
             'plugins/shortcode-core' => [
                 'file' => 'user/plugins/shortcode-core/blueprints.yaml',
                 'modified' => 1506333770
+            ],
+            'plugins/simple_form' => [
+                'file' => 'user/plugins/simple_form/blueprints.yaml',
+                'modified' => 1507541949
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/blueprints.yaml',
@@ -3830,6 +3834,28 @@ return [
                 'name' => 'plugins.shortcode-core.fontawesome.url',
                 'validation' => 'strict'
             ],
+            'plugins.simple_form' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    'validation' => 'strict'
+                ]
+            ],
+            'plugins.simple_form.enabled' => [
+                'type' => 'toggle',
+                'label' => 'PLUGIN_SIMPLE_FORM.ADMIN.BLUEPRINTS.GLOBAL.PLUGIN_STATUS',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_SIMPLE_FORM.ADMIN.BLUEPRINTS.GLOBAL.ENABLED',
+                    0 => 'PLUGIN_SIMPLE_FORM.ADMIN.BLUEPRINTS.GLOBAL.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.simple_form.enabled',
+                'validation' => 'strict'
+            ],
             'plugins.simplesearch' => [
                 'type' => '_root',
                 'form_field' => false,
@@ -4458,6 +4484,9 @@ return [
                         'load' => 'plugins.shortcode-core.fontawesome.load',
                         'url' => 'plugins.shortcode-core.fontawesome.url'
                     ]
+                ],
+                'simple_form' => [
+                    'enabled' => 'plugins.simple_form.enabled'
                 ],
                 'simplesearch' => [
                     'enabled' => 'plugins.simplesearch.enabled',
