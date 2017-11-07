@@ -1,8 +1,8 @@
 enabled: true
-from:
-from_name:
-to:
-to_name:
+from: nyuadwestem@gmail.com
+from_name: westem
+to: nyuadwestem@gmail.com
+to_name: westem
 mailer:
   engine: mail
   smtp:

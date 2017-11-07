@@ -1,5 +1,5 @@
 ---
-title: High School Confrence
+title: High School Conference
 metadata:
   description: The internal.html.twig template with left sidebar
 slug: high-school-confrence
