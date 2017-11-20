@@ -57,7 +57,7 @@ Our mission is to increase the participation and success of women interested in 
  [g-team-item image="alexandra.jpg" attributes="class:col-md-3"]
  <div class="item-icon">
  <h5>Alexandra Urbanikova</h5>
- Events Coordinator
+ Treasurer
  </div>
  <div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
@@ -69,7 +69,7 @@ Our mission is to increase the participation and success of women interested in 
  [g-team-item image="dana.jpg" attributes="class:col-md-3"]
  <div class="item-icon">
  <h5>Dana Abu Ali</h5>
- Treasurer
+ Events Coordinator
  </div>
  <div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
