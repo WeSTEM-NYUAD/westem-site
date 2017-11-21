@@ -13,7 +13,6 @@ The weSTEM High School Conference is a collaborative, interdisciplinary, and loc
 The 2017 weSTEM High School Conference will focus on developing basic skill sets for girls who aspire to work in STEM. The conference will consist of a series of sessions focusing on career development within the STEM field as well as workshops that teach basic coding and lab-work, and a competition meant to encourage teamwork and collaboration. This year’s conference serves as a pilot project for an annual conference that aims to advance STEM exposure for high school students.
 
 This will be a unique opportunity for the students to be exposed to the facilities and resources of a world-class research institution.
-
 ## Dates
 
 March 3 2018
