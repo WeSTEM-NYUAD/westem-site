@@ -33,11 +33,11 @@ Our mission is to increase the participation and success of women interested in 
  <h5>Brooke Hopkins</h5>
  President
  </div>
- <div class="item-social">
+ <!--<div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
- [g-link url="#" icon="linkedin" icon_type="fontawesome" stacked=true][/g-link]
- </div>
+ [g-link url="#" icon="linkedin" icon_type="fontawesome" stacked=true][/g-link]-->
+ </div>-->
 
  [/g-team-item]
 
@@ -46,11 +46,11 @@ Our mission is to increase the participation and success of women interested in 
  <h5>Lujain Ibrahim</h5>
  Vice President
  </div>
- <div class="item-social">
+ <!--<div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="linkedin" icon_type="fontawesome" stacked=true][/g-link]
- </div>
+ </div>-->
 
  [/g-team-item]
 
@@ -59,11 +59,11 @@ Our mission is to increase the participation and success of women interested in 
  <h5>Alexandra Urbanikova</h5>
  Events Coordinator
  </div>
- <div class="item-social">
+ <!--<div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="linkedin" icon_type="fontawesome" stacked=true][/g-link]
- </div>
+ </div>-->
 
  [/g-team-item]
  [g-team-item image="dana.jpg" attributes="class:col-md-3"]
@@ -71,11 +71,11 @@ Our mission is to increase the participation and success of women interested in 
  <h5>Dana Abu Ali</h5>
  Treasurer
  </div>
- <div class="item-social">
+<!-- <div class="item-social">
  [g-link url="#" icon="twitter" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="facebook" icon_type="fontawesome" stacked=true][/g-link]
  [g-link url="#" icon="linkedin" icon_type="fontawesome" stacked=true][/g-link]
- </div>
+ </div>-->
 
  [/g-team-item]
 
