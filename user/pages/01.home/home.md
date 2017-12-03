@@ -36,7 +36,7 @@ Forming a supportive community that helps create role models and successful wome
 <!-- [g-icon icon="bolt fa-5x" icon_type="fontawesome"][/g-icon] -->
 <h3>Outreach</h3>
 </div>
-Reaching out to high school and young girls to create the next generation of successful women in STEM
+Reaching out to high school students and young girls to create the next generation of successful women in STEM
 [/g-what-we-do-item]
 
 [g-what-we-do-item attributes="class:col-md-4"]
