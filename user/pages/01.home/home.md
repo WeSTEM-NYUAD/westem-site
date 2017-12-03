@@ -13,7 +13,7 @@ metadata:
 [g-jumbotron name="jumbotron1" fullwidth="true" image="bg_home.jpg" render=false]
 # WESTEM
 
-Empowering women in STEM at New York University Abu Dhabi.
+Empowering Women in STEM at New York University Abu Dhabi.
 [/g-jumbotron]
 
 [g-what-we-do name="what_we_do" attributes="class:what-we-do module" column_attributes="class:col-md-12"]
