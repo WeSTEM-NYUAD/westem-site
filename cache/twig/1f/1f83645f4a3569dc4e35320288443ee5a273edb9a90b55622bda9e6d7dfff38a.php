@@ -70,6 +70,6 @@ class __TwigTemplate_29bf30d3889c1839ce4deeba8e4e080e860582b816df0e49e8c5ce457b8
 {% else %}
 {{ content }}
 {% endif %}
-", "basic/section.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/basic/section.html.twig");
+", "basic/section.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/basic/section.html.twig");
     }
 }

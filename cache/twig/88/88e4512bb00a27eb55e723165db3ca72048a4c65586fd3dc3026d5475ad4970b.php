@@ -51,6 +51,6 @@ class __TwigTemplate_136d75a5710de4cd072cd119debb1be25ec0e90083e36b8395d6112b2a8
     {
         return new Twig_Source("{% set align = alignment|default('left') %}
 navbar-{{ align }}
-", "bootstrap/partials/_navbar_item_alignment.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/bootstrap/partials/_navbar_item_alignment.html.twig");
+", "bootstrap/partials/_navbar_item_alignment.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/bootstrap/partials/_navbar_item_alignment.html.twig");
     }
 }

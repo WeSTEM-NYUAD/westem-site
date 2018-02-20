@@ -16,7 +16,7 @@ class __TwigTemplate_58488a4ba60aca90be2c6333b04a1952a02c6ef98a4270d2728890f48cb
     protected function doDisplay(array $context, array $blocks = array())
     {
         // line 1
-        $this->loadTemplate("modules/clients.html.twig", "modules/clients.html.twig", 1, "484739737")->display($context);
+        $this->loadTemplate("modules/clients.html.twig", "modules/clients.html.twig", 1, "1522185063")->display($context);
     }
 
     public function getTemplateName()
@@ -62,13 +62,13 @@ class __TwigTemplate_58488a4ba60aca90be2c6333b04a1952a02c6ef98a4270d2728890f48cb
         </div>
     {% endblock %}
 {% endembed %}
-", "modules/clients.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/modules/clients.html.twig");
+", "modules/clients.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/modules/clients.html.twig");
     }
 }
 
 
 /* modules/clients.html.twig */
-class __TwigTemplate_58488a4ba60aca90be2c6333b04a1952a02c6ef98a4270d2728890f48cb8f4d7_484739737 extends Twig_Template
+class __TwigTemplate_58488a4ba60aca90be2c6333b04a1952a02c6ef98a4270d2728890f48cb8f4d7_1522185063 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {
@@ -219,6 +219,6 @@ $context["item"], "getParameter", array(0 => "attributes"), "method")));
         </div>
     {% endblock %}
 {% endembed %}
-", "modules/clients.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/modules/clients.html.twig");
+", "modules/clients.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/modules/clients.html.twig");
     }
 }

@@ -68,6 +68,6 @@ class __TwigTemplate_648af578a6a9c7e2fed2d7a61c68d5aacc6ccb9af49699b56bf78e4373e
         </div>
     </div>
 </footer>
-", "footer/footer_two.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/footer/footer_two.html.twig");
+", "footer/footer_two.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/footer/footer_two.html.twig");
     }
 }

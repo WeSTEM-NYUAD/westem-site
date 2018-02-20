@@ -233,6 +233,6 @@ class __TwigTemplate_9b917b5f728c30a41ce9e6b8a20d1a7d3ef44ece96042445f9d7ffb761a
         {% endif %}
     </ul>
 </div>
-", "partials/footer_navigation.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/modules/partials/footer_navigation.html.twig");
+", "partials/footer_navigation.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/modules/partials/footer_navigation.html.twig");
     }
 }
