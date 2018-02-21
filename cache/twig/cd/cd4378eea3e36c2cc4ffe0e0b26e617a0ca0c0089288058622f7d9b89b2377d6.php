@@ -82,6 +82,6 @@ class __TwigTemplate_db4d6231784c8f9d8f53946e310f794e3e48c6b7bc5c04d652c3da4e897
 \t\t</div>
 \t</div>
 {% endblock %}
-", "error.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/themes/gravstrap-theme/templates/error.html.twig");
+", "error.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/themes/gravstrap-theme/templates/error.html.twig");
     }
 }

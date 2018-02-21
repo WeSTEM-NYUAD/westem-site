@@ -87,6 +87,6 @@ class __TwigTemplate_cacc6db55f420e4b1fe484a870858f58e90834480209a9f711c2153089c
     {{ content }}
     {% endif %}
 </div>
-", "bootstrap/jumbotron.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/bootstrap/jumbotron.html.twig");
+", "bootstrap/jumbotron.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/bootstrap/jumbotron.html.twig");
     }
 }

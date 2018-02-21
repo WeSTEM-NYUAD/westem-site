@@ -59,6 +59,6 @@ class __TwigTemplate_5bbd169a7893e72c66de23903ff3ae5faaf0ac177a439409e511db593e3
         return new Twig_Source("{% set attributes = parse_attributes(link_attributes) %}
 {% set icon_stacked = stacked|default(false) == true ? '_stacked' : '' %}
 <a href=\"{{ url }}\"{% include 'partials/_attributes.html.twig' %}>{% include 'basic/icon' ~ icon_stacked ~ '.html.twig'%}{{ menu }}</a>
-", "basic/link.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/basic/link.html.twig");
+", "basic/link.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/basic/link.html.twig");
     }
 }

@@ -82,6 +82,6 @@ class __TwigTemplate_83f484920a527003c9cb38aabc2fbaeb0a3cb498ba04518e86778f55ed8
         return new Twig_Source("{% for meta in page.metadata %}
 <meta {% if meta.name %}name=\"{{ meta.name }}\" {% endif %}{% if meta.http_equiv %}http-equiv=\"{{ meta.http_equiv }}\" {% endif %}{% if meta.charset %}charset=\"{{ meta.charset }}\" {% endif %}{% if meta.property %}property=\"{{ meta.property }}\" {% endif %}{% if meta.content %}content=\"{{ meta.content }}\" {% endif %}/>
 {% endfor %}
-", "partials/metadata.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/themes/gravstrap-theme/templates/partials/metadata.html.twig");
+", "partials/metadata.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/themes/gravstrap-theme/templates/partials/metadata.html.twig");
     }
 }

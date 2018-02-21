@@ -60,6 +60,6 @@ class __TwigTemplate_1e1f7bc0515bfaa8e2d44d283e4427083c2b7656f277f47dd350d3cf375
     public function getSourceContext()
     {
         return new Twig_Source("{% set ignore = ignore|default([]) %}
-{% for attribute, value in attributes %} {% if attribute in ignore == false %}{{ attribute }}=\"{{ value }}\"{% endif %}{% endfor %}", "partials/_attributes.html.twig", "/Users/meganmoore/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/partials/_attributes.html.twig");
+{% for attribute, value in attributes %} {% if attribute in ignore == false %}{{ attribute }}=\"{{ value }}\"{% endif %}{% endfor %}", "partials/_attributes.html.twig", "/Users/simranparwani/Documents/weSTEM/westem-site/user/plugins/gravstrap/templates/partials/_attributes.html.twig");
     }
 }
